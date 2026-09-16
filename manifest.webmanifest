@@ -1,0 +1,11 @@
+{
+  "name": "Charly-Trading Mobile",
+  "short_name": "Charly-Trading",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "Charly-Trading Mobile V1.0 · PAPER / Tradier Sandbox",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
